@@ -17,5 +17,5 @@ This project provides a Python-based command-line tool to manage `iptables` fire
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/firewall-rules-manager.git
+   git clone https://github.com/Haeshita3942/firewall-rules-manager.git
    cd firewall-rules-manager
